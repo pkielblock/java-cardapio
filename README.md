@@ -1,2 +1,2 @@
 # Cardápio
-Cardapio em Java SpringBoot e React
+Cardapio em Java Spring-Boot, React + TypeScript
